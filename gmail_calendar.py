@@ -11,7 +11,7 @@ month = 7  # Julio
 INITIAL_DATE = datetime.datetime(year, month, 1, 18, 0)  # Fecha de inicio 1 de Julio 18hs de año corriente
 
 # ID del calendario de Google al que quieras agregar las citas
-CALENDAR_ID = "3fecfe427c5ab81295cb54e6ed2c375d7e91f80926bd96f07cb57373c9f0a288@group.calendar.google.com"
+CALENDAR_ID = "######@group.calendar.google.com"
 
 
 def autheticate():
